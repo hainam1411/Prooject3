@@ -1,0 +1,6 @@
+Tạo động lực học:
+Đặt mục tiêu rõ ràng cho bản thân ( học để kiếm việc làm ổn định ở HN)
+Luôn ôn tập và chuẩn bị trước(nền tảng vững là càn thiết)
+Thực hành (làm liên tục để quen tay, nâng cao khả năng bản thân)
+Quy trình tạo ra phần mềm:
+	Tìm hiểu yêu cầu, phân tích, thiết kế, viết chương trình (code), kiểm thử, bảo trì,...
